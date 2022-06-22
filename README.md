@@ -1,8 +1,7 @@
 - 👋 Hi, hola  I’m / soy @CBaezaT Cristian Baeza Torres. He/him
 - 👉 Soy Antropólogo con mención en Antropología Física de la Universidad de Concepción.
-- 📄 En enero de 2021 defendí y aprobé con distinción máxima mi memoria de título "Sindemia en Chile: Sindemia por COVID-19, enfermedades crónicas no transmisibles y vulnerabilidades socioeconómicas" junto a mi compañera y colega, Florencia Rubilar.
-- 👨‍💻 Colaboro como asesor técnico y estadístico en una investigación titulada "El fútbol como un fenómeno de inclusión de los haitianos en Concepción" de la VRIC en la Universidad de Concepción, donde he realizado asesoria en investigación, análisis cuantitativo y cualitativo.
-- 🌱 Soy usuario de hace años de Mac OS, dentro de mis principales herramientas esta *R* y *Python*, trabajando con Rstudio y Jupyter's Notebooks.
+- 👨‍💻 Me dedico a realizar consultorias y asesorias de manera independiente en investigaciones y proyectos. Tengo experiencia en asesorias en investigación con metodologías  cuantitativas, cualitativas y mixtas.
+- 🌱 Soy usuario de hace años de Mac OS, dentro de mis principales herramientas esta *R* y *Python* y Atlas.Ti .
 - 💞️ Tengo interes en la aplicación e investigación en Antropología Biocultural, con el fin de identificar problemáticas y soluciones para mejorar las condiciones de vida de las poblaciones contemporáneas.
 - 🦠 Actualmente mi tema de investigación es Sindemia en Chile por COVID-19
 - 👉 Puedes visitar mi perfil en [Linkedin](https://www.linkedin.com/in/cristian-baeza-torres-a56160161/)
