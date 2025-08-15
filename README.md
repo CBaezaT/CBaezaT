@@ -2,7 +2,7 @@
 - 👉 Anthropologist with a minor in Physical Anthropology from the Universidad de Concepción.
 - 👨‍💻 Currently in the Master of Data Science for Innovation at the Universidad de Concepción.
 - 🌱 Stack: MacOS, *R*, *Python* 
-- 💞️ Biocultural Anthropology
+- 🫀 Biocultural Anthropology
 - 👉 Connect with me in [Linkedin](https://www.linkedin.com/in/cristian-baeza-torres-a56160161/)
 <!---
 CBaezaT/CBaezaT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
